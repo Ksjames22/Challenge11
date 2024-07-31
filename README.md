@@ -39,7 +39,7 @@ To get started with the Note Taker application, follow these steps:
     npm start
     ```
 
-    The application will be running on `http://localhost:3000`.
+    The application will be running on `http://localhost:3001`.
 
 ## Usage
 
@@ -73,19 +73,5 @@ Contributions are welcome! To contribute to the project:
 3. Make your changes and test them.
 4. Submit a pull request with a clear description of your changes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For questions or feedback, please contact:
-
-- **Your Name** - [your.email@example.com](mailto:your.email@example.com)
-- **GitHub** - [https://github.com/yourusername](https://github.com/yourusername)
-
-Feel free to reach out with any questions or suggestions!
-
----
 
 Thank you for using the Note Taker application. Enjoy taking notes!
